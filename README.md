@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Im currently working on my taskcli and mc-mod-downloader tool.
+Im learning python and just libraries in python to make those tools as good as possible
+Im also currently learning data analystics for fun.
 <!--
 **nerrader/nerrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
