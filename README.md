@@ -1,21 +1,14 @@
-## Hi there 👋
+## Hi, I'm nerrader👋
+**Learning Python and Data Analytics**
 
-Im currently working on my taskcli and mc-mod-downloader tool.
+I’m a developer focused on building efficient CLI tools and exploring the intersection of data and automation. I enjoy breaking down complex problems into clean, functional code—whether that's a math proof or a database schema.
 
-Im learning python and just libraries in python to make those tools as good as possible
+## What I'm Building
+[TaskCLI](https://github.com/nerrader/nerrader-taskcli-python): A Python-based CLI task manager. Currently refactoring to a multi-list architecture with improved configuration handling.
 
-Im also currently learning data analystics for fun.
-<!--
-**nerrader/nerrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Minecraft Mods Downloader](https://github.com/nerrader/nerraders-mc-mod-downloader): A tool that works in the command line that uses an interactive UI to download mods into the given folderpath by the user.
 
-Here are some ideas to get you started:
+## What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analytics: Mastering SQL and Excel.
+- Python: To improve my CLI Tools.
