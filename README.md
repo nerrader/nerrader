@@ -1,7 +1,7 @@
 ## Hi, I'm nerrader👋
 **Learning Python and Data Analytics**
 
-I’m a developer focused on building efficient CLI tools and exploring the intersection of data and automation. I enjoy breaking down complex problems into clean, functional code—whether that's a math proof or a database schema.
+I’m a Python developer focused on using Python to build functional tools I personally use to solve problems.
 
 ## What I'm Building
 [TaskCLI](https://github.com/nerrader/nerrader-taskcli-python): A Python-based CLI task manager. Currently refactoring to a multi-list architecture with improved configuration handling.
@@ -11,4 +11,4 @@ I’m a developer focused on building efficient CLI tools and exploring the inte
 ## What I'm Learning
 
 - Data Analytics: Mastering SQL and Excel.
-- Python: To improve my CLI Tools.
+- Python: More modules and better ways to make cleaner code to make my tools more optimized and maintainable.
