@@ -4,7 +4,7 @@
 I’m a Python developer focused on using Python to build functional tools I personally use to solve problems.
 
 ## What I'm Building
-[TaskCLI](https://github.com/nerrader/nerrader-taskcli-python): A Python-based CLI task manager. Currently refactoring to a multi-list architecture with improved configuration handling.
+[TaskCLI](https://github.com/nerrader/nerrader-taskcli-python): A Python-based CLI task manager.
 
 [Minecraft Mods Downloader](https://github.com/nerrader/nerraders-mc-mod-downloader): A tool that works in the command line that uses an interactive UI to download mods into the given folderpath by the user.
 
